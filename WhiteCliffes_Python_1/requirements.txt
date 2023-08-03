@@ -1,0 +1,8 @@
+The user allows the client to login to the app where they are then presented
+with the product offerings. The opening title highlight's the business brand
+and identifies the sale. The user is presented with the items. If the items 
+are equal or greater to 5 and the price is equal to or greater than $200 the
+customer is informed that they get a $50 doscount. 
+
+
+
